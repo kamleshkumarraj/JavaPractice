@@ -1,4 +1,4 @@
-package PracticeCoreJava;
+package PracticeCoreJava.Introduction;
 
 public class helloworld {
     public static void main(String[] args) {
